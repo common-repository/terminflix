@@ -1,0 +1,66 @@
+@font-face {
+	font-family: "flix-icon";
+	src: url('../fonts/flix-icons/flix-icon.eot?v=1');
+	src: url('../fonts/flix-icons/flix-icon.eot?v=1#iefix') format('eot'),
+		url('../fonts/flix-icons/flix-icon.woff2?v=1') format('woff2'),
+		url('../fonts/flix-icons/flix-icon.woff?v=1') format('woff'),
+		url('../fonts/flix-icons/flix-icon.ttf?v=1') format('truetype'),
+		url('../fonts/flix-icons/flix-icon.svg?v=1#flix-icon') format('svg');
+}
+
+.flix-icon:before {
+	font-family: "flix-icon";
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	/* speak: none; only necessary if not using the private unicode range (firstGlyph option) */
+	text-decoration: none;
+	text-transform: none;
+}
+
+
+.flix-icon-Info:before {
+	content: "\E001";
+}
+
+.flix-icon-Registrieren:before {
+	content: "\E002";
+}
+
+.flix-icon-Start:before {
+	content: "\E003";
+}
+
+.flix-icon-User-Login:before {
+	content: "\E004";
+}
+
+.flix-icon-appointment-by-phone:before {
+	content: "\E005";
+}
+
+.flix-icon-bestaetigungsemail:before {
+	content: "\E006";
+}
+
+.flix-icon-credits:before {
+	content: "\E007";
+}
+
+.flix-icon-formular_einbinden:before {
+	content: "\E008";
+}
+
+.flix-icon-profilinfo:before {
+	content: "\E009";
+}
+
+.flix-icon-terminerinnerung:before {
+	content: "\E00A";
+}
+
+.flix-icon-terminformular_anlegen:before {
+	content: "\E00B";
+}

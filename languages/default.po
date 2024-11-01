@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: \n"
+
+#: assets/classes/imprint
+msgid "Imprint"
+msgstr ""
+
+#: assets/classes/imprint
+msgid "Privacy"
+msgstr ""
+
+#: assets/classes/*
+msgid "Open new Browser-Tab"
+msgstr ""
+
+#: assets/classes/quickstart
+msgid "Create or edit appointment form"
+msgstr ""
+
+#: assets/classes/dashboard
+msgid "Dashboard"
+msgstr ""
+
+#: assets/classes/embed
+msgid "Embed Code"
+msgstr ""
+
+#: assets/classes/support
+msgid "Support"
+msgstr ""
+
+#: assets/classes/dashboard
+msgid "Username"
+msgstr ""
+
+#: assets/classes/dashboard
+msgid "Create first Calendar"
+msgstr ""

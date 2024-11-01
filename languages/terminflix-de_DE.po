@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: assets/classes/imprint
+msgid "Imprint"
+msgstr "Impressum"
+
+#: assets/classes/imprint
+msgid "Privacy"
+msgstr "Datenschutz"
+
+#: assets/classes/*
+msgid "Open new Browser-Tab"
+msgstr "Im neuen Browser-Fenster öffnen"
+
+#: assets/classes/quickstart
+msgid "Create or edit appointment form"
+msgstr "Terminformular erstellen oder bearbeiten"
+
+#: assets/classes/dashboard
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: assets/classes/embed
+msgid "Embed Code"
+msgstr "Kalender Einbettungscode für Wordpress"
+
+#: assets/classes/support
+msgid "Support"
+msgstr "Hilfe"
+
+#: assets/classes/dashboard
+msgid "Username"
+msgstr "Benutzername / E-Mailadresse"
+
+#: assets/classes/dashboard
+msgid "Password"
+msgstr "Passwort"
+
+#: assets/classes/dashboard
+msgid "Sign-In"
+msgstr "Mit Bookingflix-Account verbinden"
+
+#: assets/classes/sign_out
+msgid "Sign-Out"
+msgstr "Bookingflix deinstallieren"
+
+#: assets/classes/dashboard
+msgid "Create new Account"
+msgstr "Neuen kostenfreien Account erstellen"
+
+#: assets/classes/dashboard
+msgid "Bookingflix"
+msgstr "Bookingflix"
+
+#: assets/classes/dashboard
+msgid "Shared Calendars"
+msgstr "Mit mir geteilte Kalender"
+
+#: assets/classes/dashboard
+msgid "saved"
+msgstr "Erfolgreich gespeichert"
+
+#: assets/classes/dashboard
+msgid "Create first Calendar"
+msgstr "Ersten Terminkalender erstellen"
+
+#: assets/classes/dashboard
+msgid "Connect to Wordpress"
+msgstr "Bookingflix mit Wordpress verbinden"
+
+#: assets/classes/dashboard
+msgid "Connected"
+msgstr "Erfolgreich verbunden"

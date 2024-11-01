@@ -1,0 +1,54 @@
+#: assets/classes/imprint
+msgid "Imprint"
+msgstr ""
+#: assets/classes/imprint
+msgid "Privacy"
+msgstr ""
+#: assets/classes/*
+msgid "Open new Browser-Tab"
+msgstr ""
+#: assets/classes/quickstart
+msgid "Create or edit appointment form"
+msgstr ""
+#: assets/classes/dashboard
+msgid "Dashboard"
+msgstr ""
+#: assets/classes/embed
+msgid "Embed Code"
+msgstr ""
+#: assets/classes/support
+msgid "Support"
+msgstr ""
+#: assets/classes/dashboard
+msgid "Username"
+msgstr ""
+#: assets/classes/dashboard
+msgid "Password"
+msgstr ""
+#: assets/classes/dashboard
+msgid "Sign-In"
+msgstr ""
+#: assets/classes/sign_out
+msgid "Sign-Out"
+msgstr ""
+#: assets/classes/dashboard
+msgid "Create new Account"
+msgstr ""
+#: assets/classes/dashboard
+msgid "Bookingflix"
+msgstr ""
+#: assets/classes/dashboard
+msgid "Shared Calendars"
+msgstr ""
+#: assets/classes/dashboard
+msgid "saved"
+msgstr ""
+#: assets/classes/dashboard
+msgid "Create first Calendar"
+msgstr ""
+#: assets/classes/dashboard
+msgid "Connect to Wordpress"
+msgstr ""
+#: assets/classes/dashboard
+msgid "Connected"
+msgstr ""
